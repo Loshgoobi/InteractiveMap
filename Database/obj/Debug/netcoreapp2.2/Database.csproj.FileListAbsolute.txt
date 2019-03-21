@@ -1,0 +1,24 @@
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\bin\Debug\netcoreapp2.2\Database.deps.json
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\bin\Debug\netcoreapp2.2\Database.dll
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\bin\Debug\netcoreapp2.2\Database.pdb
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\obj\Debug\netcoreapp2.2\Database.csprojAssemblyReference.cache
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\obj\Debug\netcoreapp2.2\Database.csproj.CoreCompileInputs.cache
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\obj\Debug\netcoreapp2.2\Database.AssemblyInfoInputs.cache
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\obj\Debug\netcoreapp2.2\Database.AssemblyInfo.cs
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\obj\Debug\netcoreapp2.2\Database.csproj.CopyComplete
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\obj\Debug\netcoreapp2.2\Database.dll
+C:\Users\lparigi-Ynov.DASSASDEV01\source\repos\deltaCore\Database\obj\Debug\netcoreapp2.2\Database.pdb
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\bin\Debug\netcoreapp2.2\Database.deps.json
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\bin\Debug\netcoreapp2.2\Database.dll
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\bin\Debug\netcoreapp2.2\Database.pdb
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\obj\Debug\netcoreapp2.2\Database.csprojAssemblyReference.cache
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\obj\Debug\netcoreapp2.2\Database.csproj.CoreCompileInputs.cache
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\obj\Debug\netcoreapp2.2\Database.AssemblyInfoInputs.cache
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\obj\Debug\netcoreapp2.2\Database.AssemblyInfo.cs
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\obj\Debug\netcoreapp2.2\Database.csproj.CopyComplete
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\obj\Debug\netcoreapp2.2\Database.dll
+C:\Users\Remy\Desktop\Ynov\Mobile .Net\StarterKitDeltaFestivalDotNet\Database\obj\Debug\netcoreapp2.2\Database.pdb
